@@ -1,0 +1,6 @@
+{
+  "name": "Aura Portfolio & Design Showcase",
+  "description": "A high-craft design portfolio showcasing product design, visual systems, 3D spatial computing, and mobile case studies in a refined dark mode theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
